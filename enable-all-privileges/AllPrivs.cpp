@@ -3,7 +3,7 @@
 #include "ioctl.h"
 #include "Common.h"
 
-// Protection offset : 0x878
+// Token offset : 0x40 
 
 #pragma warning(disable: 4996)
 
